@@ -1,0 +1,22 @@
+# Diabetics Prediction System Based On Life Style
+
+In this, we need to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. 
+Several constraints were placed on the selection of these instances from a larger database. 
+In particular, all patients here are females at least 21 years old of Pima Indian heritage.
+The datasets consist of several medical predictor variables and one target variable, Diabetes. 
+Predictor variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
+
+# Liver Patient Analysis
+
+This data set contains 416 liver patient records and 167 non liver patient records.
+The data set was collected from north east of Andhra Pradesh, India. 
+Selector is a class label used to divide into groups(liver patient or not). 
+Objective is to identify whether the patient has liver disease or not based on the input features.
+
+# Bank loan status approval Prediction
+
+Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form.
+These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. 
+To automate this process, they have given a problem to identify the customers segments, those are eligible for loan amount so that they can specifically target these customers.
+
+# 
