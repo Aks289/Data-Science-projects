@@ -28,3 +28,7 @@ Happy Customer Bank is a mid-sized private bank that deals in all kinds of banki
 Online product reviews provided by consumers who previously purchased products have become a major information source for consumers and marketers regarding product quality. Research has shown that consumer online product ratings reflect both the customers' experience with the product and the influence of others' ratings.
 Objectve is to build a machine learning model to predict the product rating out of 5.
 Submissions are evaluated using Root Mean Squared Error (MSE).
+
+# Smart Lead Scoring Engine
+
+A D2C startup develops products using cutting edge technologies like Web 3.0. Over the past few months, the company has started multiple marketing campaigns offline and digital both. As a result, the users have started showing interest in the product on the website. These users with intent to buy product(s) are generally known as leads (Potential Customers).Can you identify the potential leads for a D2C startup?
