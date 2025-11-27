@@ -1,0 +1,91 @@
+{
+  "summary_bullets": [
+    {
+      "bulletPoint": "Purpose",
+      "description": "The Universal Credit Act 2025 aims to alter the rates of the standard allowance, limited capability for work element, and limited capability for work and work-related activity element of universal credit, as well as the rates of income-related employment and support allowance."
+    },
+    {
+      "bulletPoint": "Key Definitions",
+      "description": "Key definitions include 'standard allowance', 'limited capability for work element' (LCW), 'limited capability for work and work-related activity element' (LCWRA), 'pre-2026 claimant', 'severe conditions criteria claimant', and 'consumer prices index'."
+    },
+    {
+      "bulletPoint": "Eligibility",
+      "description": "Eligibility for universal credit and employment and support allowance is determined based on factors such as limited capability for work, work-related activity, and income."
+    },
+    {
+      "bulletPoint": "Obligations",
+      "description": "The Secretary of State must exercise relevant powers to secure the standard allowance, LCW, and LCWRA elements, and to increase certain amounts to achieve specific results, such as maintaining the value of protected LCWRA amounts and ESA IR personal allowances."
+    },
+    {
+      "bulletPoint": "Enforcement",
+      "description": "The Act enforces the changes to universal credit and employment and support allowance through amendments to the Universal Credit Regulations 2013 and the Employment and Support Allowance Regulations 2008, with corresponding provisions for Northern Ireland."
+    },
+    {
+      "bulletPoint": "Standard Allowance",
+      "description": "The standard allowance for tax years 2026-27 to 2029-30 will be at least the amounts calculated based on the consumer prices index and relevant uplift percentages."
+    },
+    {
+      "bulletPoint": "LCWRA Element",
+      "description": "The LCWRA element for tax year 2026-27 will be £217.26 for claimants who are not pre-2026 claimants, severe conditions criteria claimants, or terminally ill."
+    },
+    {
+      "bulletPoint": "Freeze of LCWRA and LCW Elements",
+      "description": "The LCWRA and LCW elements will be frozen for tax years 2026-27 to 2029-30, with no annual up-rating of benefits."
+    },
+    {
+      "bulletPoint": "Protected LCWRA Amount",
+      "description": "The protected LCWRA amount will be increased if necessary to maintain its value in relation to the standard allowance and consumer prices index."
+    },
+    {
+      "bulletPoint": "Legacy Employment and Support Allowance Payments",
+      "description": "The Act also makes provisions for legacy employment and support allowance payments, including the freeze of certain elements and the increase of others to maintain their value."
+    }
+  ],
+  "sections": {
+    "definitions": "Key terms include: standard allowance, LCWRA element, LCW element, pre-2026 claimant, severe conditions criteria claimant, terminally ill, assessment period, benefit week, consumer prices index (Section 1(6), Section 3(2), Section 4(3), Schedule 1)",
+    "obligations": "Claimants must meet certain conditions to be entitled to universal credit, including being available for and actively seeking work (implied, not explicitly stated in the Act, but referenced in the Welfare Reform Act 2012)",
+    "responsibilities": "The Secretary of State is responsible for exercising powers to secure the standard allowance and LCWRA element amounts, and for making corresponding provision for Northern Ireland (Section 1(1), Section 6)",
+    "eligibility": "Eligibility for universal credit is determined based on factors such as income, capital, and capability for work (implied, not explicitly stated in the Act, but referenced in the Welfare Reform Act 2012 and the Universal Credit Regulations 2013)",
+    "payments": "Payments are determined based on the standard allowance, LCWRA element, and other components, with amounts adjusted according to the consumer prices index and relevant uplift percentages (Section 1(2), Section 2, Section 4)",
+    "penalties": "No specific penalties are mentioned in the Act, but sanctions may be imposed under the Welfare Reform Act 2012 and the Universal Credit Regulations 2013 for failure to comply with obligations",
+    "record_keeping": "The Secretary of State must keep records of universal credit awards and payments, but specific record-keeping duties are not outlined in the Act (implied, not explicitly stated, but referenced in the Welfare Reform Act 2012 and the Universal Credit Regulations 2013)"
+  },
+  "rule_checks": [
+    {
+      "rule": "Act must define key terms",
+      "status": "pass",
+      "evidence": "Section 1(6), Section 3(2), Section 4(3), Schedule 1 define key terms such as standard allowance, LCWRA element, LCW element, pre-2026 claimant, severe conditions criteria claimant, terminally ill, assessment period, benefit week, consumer prices index",
+      "confidence": 95
+    },
+    {
+      "rule": "Act must specify eligibility criteria",
+      "status": "partial",
+      "evidence": "Eligibility for universal credit is implied to be determined based on factors such as income, capital, and capability for work, but specific criteria are not explicitly stated in the Act (referenced in the Welfare Reform Act 2012 and the Universal Credit Regulations 2013)",
+      "confidence": 60
+    },
+    {
+      "rule": "Act must specify responsibilities of the administering authority",
+      "status": "pass",
+      "evidence": "The Secretary of State is responsible for exercising powers to secure the standard allowance and LCWRA element amounts, and for making corresponding provision for Northern Ireland (Section 1(1), Section 6)",
+      "confidence": 90
+    },
+    {
+      "rule": "Act must include enforcement or penalties",
+      "status": "fail",
+      "evidence": "No specific penalties are mentioned in the Act, although sanctions may be imposed under the Welfare Reform Act 2012 and the Universal Credit Regulations 2013 for failure to comply with obligations",
+      "confidence": 80
+    },
+    {
+      "rule": "Act must include payment calculation or entitlement structure",
+      "status": "pass",
+      "evidence": "Payments are determined based on the standard allowance, LCWRA element, and other components, with amounts adjusted according to the consumer prices index and relevant uplift percentages (Section 1(2), Section 2, Section 4)",
+      "confidence": 95
+    },
+    {
+      "rule": "Act must include record-keeping or reporting requirements",
+      "status": "partial",
+      "evidence": "The Secretary of State must keep records of universal credit awards and payments, but specific record-keeping duties are not outlined in the Act (implied, not explicitly stated, but referenced in the Welfare Reform Act 2012 and the Universal Credit Regulations 2013)",
+      "confidence": 50
+    }
+  ]
+}
