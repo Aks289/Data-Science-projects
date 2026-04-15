@@ -1,0 +1,30 @@
+# Core
+requests
+python-dotenv
+
+# LLM (OpenRouter via requests, no openai lib needed)
+
+# PDF Processing
+pdfplumber
+docling
+
+# Data handling
+pandas
+
+# Database
+sqlalchemy
+
+# Google Drive API
+google-api-python-client
+google-auth
+google-auth-oauthlib
+
+# Email (Gmail IMAP)
+imapclient
+pyzmail36
+
+# Web scraping (Apify + parsing)
+beautifulsoup4
+
+# Optional (better parsing / speed)
+# lxml
